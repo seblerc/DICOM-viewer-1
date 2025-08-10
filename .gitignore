@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+*.log
+
+# DICOM & tıbbi görseller
+*.dcm
+*.ima
+*.nii
+*.nii.gz
+*DICOM*/
+*dicom*/
+test_data/
+samples/
+screenshots/
+
+# IDE
+.vscode/
+.idea/
